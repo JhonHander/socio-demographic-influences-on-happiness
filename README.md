@@ -1,5 +1,6 @@
 # 🌐 Análisis de Influencias Sociodemográficas en la Felicidad
 
+
 ## ✨ Descripción
 
 Este proyecto analiza la relación entre los datos de felicidad de los países y sus características socio-demográficas. Se utilizan datos de la API **REST Countries**, el **World Happiness Report** y un **TopoJSON** para explorar correlaciones y visualizar los hallazgos en **Power BI**.
@@ -20,11 +21,11 @@ Este proyecto analiza la relación entre los datos de felicidad de los países y
 
 ## 🚀 Funcionalidades
 
-✔️ Consumo de la API **REST Countries** para obtener datos de los países  
-✔️ Integración con datos de felicidad del **World Happiness Report**  
-✔️ Análisis de correlación entre variables socio-demográficas y felicidad
-✔️ Visualización interactiva en **Power BI** con mapas y gráficos  
-✔️ Uso de **Python (Pandas, Seaborn, Matplotlib)** para preprocesamiento y análisis  
+- ✔️ Consumo de la API **REST Countries** para obtener datos de los países
+- ✔️ Integración con datos de felicidad del **World Happiness Report**  
+- ✔️ Análisis de correlación entre variables socio-demográficas y felicidad
+- ✔️ Visualización interactiva en **Power BI** con mapas y gráficos  
+- ✔️ Uso de **Python (Pandas, Seaborn, Matplotlib)** para preprocesamiento y análisis  
 
 ---
 
