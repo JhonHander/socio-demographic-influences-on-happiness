@@ -49,4 +49,7 @@ Aquí se muestra una vista previa del análisis realizado en Power BI:
    ```bash
    python preprocessing/correlacion.py
 4. **Abrir Power BI y Cargar Happiness-and-Sociodemographic-Dashboard.pbix**
-Visualizar los dashboards interactivos con los resultados.
+   
+- Navegar a la carpeta visualizacion/
+- Abrir proyecto.pbix en Power BI Desktop
+- Explorar los gráficos y mapas interactivos
